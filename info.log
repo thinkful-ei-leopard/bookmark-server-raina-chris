@@ -2,3 +2,10 @@
 {"message":"Bookmark with fadecadf-b09c-40de-aaeb-6f9c8c71765f created","level":"info"}
 {"message":"Bookmark with id fadecadf-b09c-40de-aaeb-6f9c8c71765f deleted","level":"info"}
 {"message":"Bookmark with id fadecadf-b09c-40de-aaeb-6f9c8c71765f not found","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Bookmark with id f8c089ca-427a-431e-8374-c3a4992abdc4 deleted","level":"info"}
+{"message":"Bookmark with ff14100c-da1f-4eee-9760-cac3a31250e8 created","level":"info"}
+{"message":"Invalid url www.google.comt","level":"error"}
+{"message":"Invalid url www.google.com","level":"error"}
+{"message":"Invalid url google.com","level":"error"}
+{"message":"Bookmark with f88e3f36-e0c4-4f95-9d8f-2e9f4c9c7dee created","level":"info"}
