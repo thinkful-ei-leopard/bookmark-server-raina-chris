@@ -8,7 +8,6 @@ const app = express();
 const errorHandler = require('./error-handler');
 const bookmarksRouter = require('./new-new-bookmarks-router');
 const validateBearerToken = require('./vaidate-bearer-token');
-const bookmarks_service = require('./bookmarks_service');
 const morganOption = (NODE_ENV === 'production')
   ? 'tiny'
   : 'common';
